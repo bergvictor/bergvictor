@@ -1,0 +1,16 @@
+# LaTeX build artifacts — do NOT ignore *.pdf (the built PDF is the deliverable)
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+*.nav
+*.snm
+*.vrb
+.DS_Store
