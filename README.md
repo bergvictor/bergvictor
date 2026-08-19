@@ -14,4 +14,4 @@ Public demos on the site use synthetic sample data. They are not client deployme
 
 [Book a 20–30 minute call](https://www.vimplement.com/book?utm_source=github&utm_medium=profile&utm_campaign=github_presence) · [vimplement.com](https://www.vimplement.com/?utm_source=github&utm_medium=profile&utm_campaign=github_presence) · [LinkedIn](https://www.linkedin.com/company/vlimplement)
 
-Scope and a fixed price after mapping. No published rates.
+Assessment, then a fixed price. Optional product operation after a signed delivery — not a self-serve subscription. No published rates.
