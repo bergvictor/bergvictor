@@ -1,30 +1,17 @@
-# VImplement
+# Victor Berg
 
-**AI, data og operativ software for norske SMB-er.** Founder-led by **Victor Berg**.
+I build AI workflows, Power BI reporting and operational software for Norwegian SMBs through **[VImplement](https://www.vimplement.com/?utm_source=github&utm_medium=profile&utm_campaign=github_presence)**.
 
-Vi rydder opp i tre ting:
-- Manuelt etterarbeid som lever i e-post og regneark
-- Styringstall som er spredt og lite handlingsorienterte
-- Systemer som ikke snakker sammen
+One person. Oslo. Org. nr. 934 134 176 · legal name **VICTOR BERG**.
 
-### Hva vi leverer
-| Område | Leveranse |
-|---|---|
-| 📊 Styringsdata | Power BI-dashbord koblet til Tripletex / PowerOffice / Fiken |
-| 🤖 AI-arbeidsflyt | Henvendelser, tilbud, dokumentflyt, oppfølging — med eier og logg |
-| 🧱 Dataplattform | Microsoft Fabric, dbt, SQL, Supabase |
-| 📨 EHF + SAF-T | Klargjøring før 2027-plikten |
-| 🛠 Interne verktøy | Booking, kundereise, enkle softwareflater |
+## Public work
 
-### Produkter i drift
-- 📊 [Styringsdata](https://styringsdata.pages.dev/demo/okonomi) — live demo
-- 📅 [Bookingflyt](https://bookingflyt.pages.dev/book/demo) — live demo
-- 🧾 [Fakturaflyt](https://fakturaflyt.pages.dev/demo) — live demo
+- **[ehf-helper](https://github.com/bergvictor/ehf-helper)** — Peppol BIS Billing 3.0 / EHF UBL XML from a small invoice JSON. Zero dependencies. A starting point, not a certified sender.
 
-### Kontakt
-- 🔗 [vimplement.com](https://www.vimplement.com/no)
-- 📅 [Book en samtale](https://www.vimplement.com/no/book)
-- 💼 [LinkedIn](https://www.linkedin.com/company/vlimplement)
-- ✉️ victor.berg@vimplement.com
+Public demos on the site use synthetic sample data. They are not client deployments.
 
-Org. nr. 934 134 176 · Oslo · Svar innen 24 timer
+## Work with me
+
+[Book a 20–30 minute call](https://www.vimplement.com/book?utm_source=github&utm_medium=profile&utm_campaign=github_presence) · [vimplement.com](https://www.vimplement.com/?utm_source=github&utm_medium=profile&utm_campaign=github_presence) · [LinkedIn](https://www.linkedin.com/company/vlimplement)
+
+Scope and a fixed price after mapping. No published rates.
